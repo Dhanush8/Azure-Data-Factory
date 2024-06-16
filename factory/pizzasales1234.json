@@ -1,0 +1,9 @@
+{
+	"name": "pizzasales1234",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "46dcf4d8-c338-4df2-9898-5a0c39775979",
+		"tenantId": "b8d181b7-58fc-42cc-8853-9c4880ddfada"
+	}
+}
